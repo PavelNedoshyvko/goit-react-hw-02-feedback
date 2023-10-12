@@ -5,11 +5,10 @@ export const Button = styled.button`
 &:not(:last-child){
 	margin-right: 30px;
 }
-  padding: 4px 30px;
-	font-size: 24px;
-  font-weight: 500;
-  line-height: 1.5;
-  /* letter-spacing: 0.04em; */
+  padding: 10px 32px;
+	font-size: 22px;
+  font-weight: 600;
+	text-transform: uppercase;
   color: #000000;
   background-color: #1ac6ff;
   border: none;
